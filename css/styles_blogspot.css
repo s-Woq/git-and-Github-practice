@@ -1,0 +1,12 @@
+body{
+    font-weight: bold;
+    color:aliceblue;
+    background-color: rgb(50, 50, 56);
+}
+
+#container-of-all{
+    position:relative;
+    justify-content: center;
+    background-color: antiquewhite;
+
+}
